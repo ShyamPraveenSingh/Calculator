@@ -88,7 +88,6 @@ button_add = Button(root, text="+", padx=39, pady=20, command=button_add)
 button_equal = Button(root, text="=", padx=91, pady=20, command=button_equal)
 button_clear = Button(root, text="Clear", padx=79, pady=20, command=button_clear)
 
-
 button_sub = Button(root, text="-", padx=41, pady=20, command=button_sub)
 button_mul = Button(root, text="*", padx=40, pady=20, command=button_mul)
 button_div = Button(root, text="/", padx=41, pady=20, command=button_div)
